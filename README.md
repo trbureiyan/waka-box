@@ -26,3 +26,5 @@
    - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/matchai/`**`6d5f84419863089a167387da62dd7081`**.
    - **GH_TOKEN:** The GitHub token generated above.
    - **WAKATIME_API_KEY:** The API key for your WakaTime account.
+
+by @matchai
